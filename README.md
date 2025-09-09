@@ -1,7 +1,7 @@
 # 🖥️ TODO Simples para Aprendizado de Django
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Django](https://img.shields.io/badge/Django-5.2.6%006400)
+![Django](https://img.shields.io/badge/Django-5.2.6%2B-006400)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## 📌 Sobre o Projeto
